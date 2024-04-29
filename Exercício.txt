@@ -1,0 +1,6 @@
+Crie uma classe Veiculo com os seguintes atributos: marca, modelo, ano e preco. Em seguida,
+crie métodos para calcular e retornar o imposto a ser pago pelo veículo, levando em consideração
+o ano de fabricação e o preço. Em seguida, crie uma subclasse chamada Carro que estende Veiculo e
+adicione um atributo extra para armazenar o número de portas. Implemente métodos para calcular o
+preço total do carro, considerando o imposto e qualquer taxa adicional. Por fim, crie uma classe
+de teste para demonstrar o funcionamento das classes Veiculo e Carro.
